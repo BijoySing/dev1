@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    max-width: 1400px;
+    object-fit: contain;
+    margin: auto;
+}
+
+.margin {
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    /* margin-right: 10px; */
+    margin-left: 10px;
+}
